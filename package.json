@@ -1,0 +1,13 @@
+{
+  "name": "hozoo-md-bot",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.6.5",
+    "moment": "^2.30.1"
+  }
+}
