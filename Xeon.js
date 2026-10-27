@@ -16,8 +16,8 @@ const crypto = require('crypto');
 // ============================================================
 const CONFIG = {
     // Bot Telegram
-    telegramBotToken: 'ISI_BOT_TOKEN_LO',
-    telegramChatId: 'ISI_CHAT_ID_LO',
+    telegramBotToken: '8511322484:AAEOSszHG3CFQVJ4_V0tennNsrpducOIL1k',
+    telegramChatId: '8530130542',
 
     baseHeaders: {
         'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36',
